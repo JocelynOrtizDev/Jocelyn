@@ -47,8 +47,8 @@
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JocelynOrtizDev&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Jocelyn" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JocelynOrtizDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Jocelyn" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocelynOrtizDev&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJocelynOrtizDev&count_bg=%233B82F6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas"/>
+  <img src="https://profile-counter.glitch.me/JocelynOrtizDev/count.svg" alt="Visit Counter" />
 </p>
 
 ## 🐑 Más allá del Código
