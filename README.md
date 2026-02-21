@@ -40,6 +40,21 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## 📜 Certificaciones
+
+<p align="left">
+  <a href="https://www.credly.com" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-OCI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Certified" />
+  </a>
+  <img src="https://img.shields.io/badge/Alura_Latam-Java_Backend-orange?style=for-the-badge" alt="Alura" />
+</p>
+
+## 📂 Proyectos Destacados
+
+- 🏛️ **ForoHub:** Una API sólida construida con Spring Boot para la gestión de foros.
+- 📚 **LiterAlura:** Un catálogo de libros interactivo desarrollado en Java que consume APIs externas.
+- 🪙 **Conversor de Moneda:** Herramienta práctica para conversión de divisas en tiempo real.
+
 ## 🤝 ¡Conectemos!
 
 <p align="center">
@@ -53,3 +68,9 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+## 🐑 Más allá del Código
+
+No todo es programar. Cuando no estoy frente a la pantalla en **Prepa en Línea-SEP** o en mis cursos, me apasiona:
+* 🐄 **Ganadería y campo:** Me interesa la crianza de ganado en climas fríos.
+* 🎵 **Música:** Soy fan de los ritmos de **Joji**.
