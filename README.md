@@ -18,11 +18,6 @@
 * 🛠️ **Stack Técnico:** Java, Python, Spring Boot y MySQL.
 * 🎯 **Objetivo:** Transformar problemas complejos en código funcional y profesional.
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Lenguajes & Frameworks
@@ -49,6 +44,14 @@
   <img src="https://img.shields.io/badge/Alura_Latam-Java_Backend-orange?style=for-the-badge" alt="Alura" />
 </p>
 
+## 📊 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JocelynOrtizDev&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Jocelyn" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocelynOrtizDev&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
 ## 📂 Proyectos Destacados
 
 - 🏛️ **ForoHub:** Una API sólida construida con Spring Boot para la gestión de foros.
@@ -67,6 +70,10 @@
   <a href="https://discordapp.com/users/Jocelyn_Dev">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJocelynOrtizDev&count_bg=%233B82F6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas"/>
 </p>
 
 ## 🐑 Más allá del Código
