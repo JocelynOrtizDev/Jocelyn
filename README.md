@@ -10,18 +10,14 @@
 
 ## 🚀 Sobre Mí
 
-```javascript
-const jocelynDev = {
-  status: "🧠 [Aprendiendo constantemente]",
-  education: ["Tokio School", "Alura Latam"],
-  currentProject: "🏗️ [Sistema de Gestión de Suministros IT]",
-  stack: ["Java", "Python", "MySQL", "Spring Boot"],
-  achievements: "📜 [Certificación Oracle Cloud Infrastructure]",
-  goal: "🎯 [Convertirme en Desarrolladora Full Stack profesional]"
-};
-```
+✨ **Aspirante a Full Stack Developer** apasionada por crear soluciones eficientes y escalables. Actualmente centrada en el ecosistema de **Java** y **Python**.
 
-### 4. Gif Decorativo
+* 📚 **Formación Actual:** Estudiante en **Tokio School** y **Alura Latam**.
+* ☁️ **Certificación:** **Oracle Cloud Infrastructure (OCI)** Certified.
+* 🏗️ **Proyecto en Curso:** Desarrollando un **Sistema de Gestión de Suministros IT**.
+* 🛠️ **Stack Técnico:** Java, Python, Spring Boot y MySQL.
+* 🎯 **Objetivo:** Transformar problemas complejos en código funcional y profesional.
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -42,13 +38,6 @@ const jocelynDev = {
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-## 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JocelynOrtizDev&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Jocelyn" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocelynOrtizDev&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ## 🤝 ¡Conectemos!
