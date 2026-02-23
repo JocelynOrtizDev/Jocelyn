@@ -72,9 +72,21 @@
   </a>
 </p>
 
+---
+
+## 📊 Panel de Control del Perfil
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JocelynOrtizDev&color=blue&style=flat-square&label=VISITAS+AL+PERFIL" alt="JocelynOrtizDev" />
+  <img src="https://komarev.com/ghpvc/?username=JocelynOrtizDev&color=3b82f6&style=flat-square&label=USUARIOS_DETECTADOS" alt="Visitas" />
 </p>
+
+> [!IMPORTANT]
+> **Logs del Sistema:**
+> - 🟢 **Estado:** Activa y codeando.
+> - 📂 **Proyecto Principal:** [Sistema de Gestión de Suministros IT]
+> - 🚀 **Meta:** Full Stack Developer.
+
+---
 
 ## 🐑 Más allá del Código
 
